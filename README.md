@@ -1,10 +1,7 @@
-Hello, I'm Deepak! 👋
+<h2>👋 Hi, I'm Deepak!</h2>
 
-👩🏻‍💻 Cyber Security Enthusiast sharing my learnings in tech
-👩🏻‍🎓 Currently in USAR Studying Artificial Intelligence in Data Science
-✍ Writing newsletter related to tech & security on LinkedIn
-🌷 #learninginpublic in my digital garden
-💭 Currently learning about Artificial Intelligence
+💫 About Me:
+👩🏻‍💻 Cyber Security Enthusiast sharing my learnings in tech<br>👩🏻‍🎓 Currently in USAR Studying Artificial Intelligence in Data Science<br>✍ Writing newsletter related to tech & security on LinkedIn<br>🌱 I’m currently learning<br>💭 Currently learning about Artificial Intelligence
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dxepxk_exp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-sharma-3116921b1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Deepak00949068) 
