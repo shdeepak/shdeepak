@@ -1,6 +1,6 @@
 <h2>👋 Hi, I'm Deepak!</h2>
-
-💫 About Me:<br>
+<br>
+<h3></h3>💫 About Me:</h3><br>
 👩🏻‍💻 Cyber Security Enthusiast sharing my learnings in tech<br>👩🏻‍🎓 Currently in USAR Studying Artificial Intelligence in Data Science<br>✍ Writing newsletter related to tech & security on LinkedIn<br>🌱 I’m currently learning<br>💭 Currently learning about Artificial Intelligence
 
 ## 🌐 Socials:
